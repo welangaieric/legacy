@@ -7,7 +7,7 @@ try {
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/org",
+  basePath: "/app",
   eslint: {
     ignoreDuringBuilds: true,
   },
